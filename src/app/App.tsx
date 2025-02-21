@@ -1,4 +1,4 @@
-"use client";
+// src/App.tsx
 
 import React from "react";
 import BridgeInterface from "../components/BridgeInterface";
